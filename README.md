@@ -16,3 +16,21 @@
 
 **5.精准运动控制与通信协议**
 系统将识别出的杂草目标坐标，通过MODBUS-RTU/TCP协议实时下发至单轴激光控制器，控制激光束精确指向杂草位置完成瞬时灭杀，实现了视觉引导与运动控制的高效闭环。
+
+# 程序运行展示:
+**主界面展示**
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/379bd342-d84f-4736-8792-ed5efe08ac61" />
+
+**副界面展示**
+
+<img width="444" height="879" alt="image" src="https://github.com/user-attachments/assets/f66425c1-f59a-41b2-b055-764eec9f6e5c" />
+
+**识别杂草展示**
+
+<img width="936" height="561" alt="image" src="https://github.com/user-attachments/assets/e9195f56-c47d-4521-be64-565c4df4be37" />
+
+**摄像头数据传递到Qt界面展示**
+
+<img width="795" height="528" alt="image" src="https://github.com/user-attachments/assets/3dfe3a24-d3ee-4101-8b05-adae46900090" />
+
